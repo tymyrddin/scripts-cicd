@@ -1,6 +1,6 @@
 # CI/CD scripts
 
-Some python scripting CI/CD hacks for continued practising with Python 3 the non-boring way.
+Some scripting CI/CD hacks for continued practising the non-boring way.
 
 ## Requirements
 
